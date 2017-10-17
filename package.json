@@ -1,0 +1,23 @@
+{
+  "name": "coima",
+  "version": "1.0.0",
+  "description": "Chelas Open Internet Movie Application",
+  "main": "ServerDispatcher.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernardoRodrigues/PI-LI51N-G6.git"
+  },
+  "keywords": [
+    "COIMA",
+    "Grupo6"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BernardoRodrigues/PI-LI51N-G6/issues"
+  },
+  "homepage": "https://github.com/BernardoRodrigues/PI-LI51N-G6#readme"
+}
