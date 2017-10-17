@@ -1,5 +1,6 @@
 const net = require('net')
 const fs = require('http')
+// const bootstrap = require('bootstrap')
 
 let server = net.createServer(connection => {
     console.log("Client Connected")
@@ -11,6 +12,6 @@ let server = net.createServer(connection => {
 server.listen(5000, () => console.log('server bound'))
 
 function dispatcher(data, callback) {
-    // console.log(data)
+    console.log(data)
     callback("<html><head></head><title>Teste</title></html>")
 }
