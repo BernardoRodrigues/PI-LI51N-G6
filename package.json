@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/BernardoRodrigues/PI-LI51N-G6#readme",
   "devDependencies": {
-    "bootstrap": "^4.0.0-beta"
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.2.1"
   }
 }
