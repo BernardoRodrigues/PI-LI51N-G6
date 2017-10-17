@@ -1,1 +1,1 @@
-module.exports = 'my-api.key';
+module.exports = '76f303893e6227e56b20d79f4a80e5fb';
