@@ -11,5 +11,5 @@ function MovieDetailsDto(tagline, id, originalTitle, overview, releaseDate, vote
 }
 
 MovieDetailsDto.prototype.toString() = function newToString () {
-    
+
 }
