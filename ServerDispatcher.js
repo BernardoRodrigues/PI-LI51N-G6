@@ -1,5 +1,5 @@
-const net = require('net')
-const fs = require('http')
+'use strict';
+const http = require('http');
 
 let server = net.createServer(connection => {
     console.log("Client Connected")
