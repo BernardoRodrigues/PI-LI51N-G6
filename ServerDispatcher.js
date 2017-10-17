@@ -1,8 +1,8 @@
-const net = require('net')
-const fs = require('http')
-// const bootstrap = require('bootstrap')
 
-let server = net.createServer(connection => {
+'use strict';
+const http = require('http');
+
+let server = http.createServer(connection => {
     console.log("Client Connected")
     connection.on('end', () => console.log('Client Disconnected'))
     connection.on('error', () => {throw error})
