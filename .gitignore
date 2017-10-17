@@ -58,4 +58,4 @@ typings/
 .env
 
 .idea/
-/api-key.js
+/the-movie-imdb-api-key.txt
