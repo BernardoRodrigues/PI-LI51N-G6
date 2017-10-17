@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/BernardoRodrigues/PI-LI51N-G6/issues"
   },
-  "homepage": "https://github.com/BernardoRodrigues/PI-LI51N-G6#readme"
+  "homepage": "https://github.com/BernardoRodrigues/PI-LI51N-G6#readme",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-beta"
+  }
 }
